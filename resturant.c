@@ -1,5 +1,5 @@
 #include <stdio.h>
-                                //MUHAMMED ALZEDAN 22100011910
+                              
 int main() {
     int secimYemek, secimIcecek, secimTatli;
     int adetYemek = 0, adetIcecek = 0, adetTatli = 0;
